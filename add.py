@@ -1,3 +1,5 @@
-a=10
+a=13
 b=12
-c=a+b
+c=12
+d=a+b++c+d
+print(d)
