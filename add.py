@@ -1,5 +1,5 @@
 a=13
 b=1
-c=12
-d=a+b+c
+L=12
+d=a*b*L
 print(d)
